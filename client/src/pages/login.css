@@ -1,0 +1,7 @@
+.MuiFormControl-root.MuiTextField-root {
+    margin: 0.5em;
+}
+
+.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary {
+    margin: 1.1em;
+}

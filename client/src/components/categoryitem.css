@@ -1,0 +1,7 @@
+.grow-title {
+    transition: all .4s ease-in-out;
+}
+
+.grow-title:hover {
+    transform: scale(1.02);
+}

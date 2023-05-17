@@ -1,0 +1,7 @@
+.center {
+    float: right;
+}
+
+.MuiFormControl-root.MuiTextField-root {
+    margin: 0.5em;
+}
